@@ -5,7 +5,7 @@
  A python program for using the main principle of perturbation theory to predic 
  the coupling streght between cavity magnon polaritons detailed in:
 
- Macêdo, Rair, Rory C. Holland, Paul G. Baity, Karen L. Livesey, 
+ Rair Macêdo, Rory C. Holland, Paul G. Baity, Luke J. McLellan, Karen L. Livesey, 
  Robert L. Stamps, Martin P. Weides, and Dmytro A. Bozhko. "An electromagnetic 
  approach to cavity spintronics" Phys. Rev. Applied (In press)/arXiv:2007.11483
 
